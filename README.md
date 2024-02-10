@@ -43,7 +43,7 @@ Para clonar e executar está aplicação, você precisará do [Git](https://git-
 
 ```bash
 # Clonando o repositório
-$ git clone https://github.com/lamendes/nlw-ia.git nlw-ia
+$ git clone https://github.com/MartinsPereira/NLW-IA.git
 ```
 
 ```bash
